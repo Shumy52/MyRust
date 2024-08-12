@@ -9,6 +9,7 @@ fn main() {
 
     println!("Psst! The number is: {}", secret);
 
+    
     // let mut guess = String::new();
     // If you don't create a new string each time, read_line will concatenate all of em
     // not the desired result
